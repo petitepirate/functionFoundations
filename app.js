@@ -753,7 +753,7 @@ function twoHighest(nums) {
 }
 //-------------------------------------------------------------
 
-// 30
+// 30  //Incomplete
 //Mine: NOTE MINE IS INCORRECT AND NOT FINISHED
 function minMaxKeyInObject() {
 	var keys = Object.keys(obj);
